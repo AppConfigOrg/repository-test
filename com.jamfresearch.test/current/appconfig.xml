@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<managedAppConfiguration>
+  <version>1</version>
+  <bundleId>com.jamfresearch.test</bundleId>
+  <dict>
+    <boolean keyName="0">
+      <defaultValue>
+        <value>true</value>
+      </defaultValue>
+    </boolean>
+  </dict>
+  <presentation defaultLocale="en-US">
+    <fieldGroup>
+      <name>
+        <language value="en-US">a</language>
+      </name>
+      <field keyName="0" type="input">
+        <label>
+          <language value="en-US">asdf</language>
+        </label>
+        <description>
+          <language value="en-US">fdsa</language>
+        </description>
+      </field>
+    </fieldGroup>
+  </presentation>
+</managedAppConfiguration>
